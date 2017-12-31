@@ -4,6 +4,7 @@ package _1st_chapter;
  * author: victory_always
  * mail: zjgsuwk@163.com
  * time: 2017-12-31 10:47
+ * desc: 简书文章地址:http://www.jianshu.com/p/886fda501059
  */
 public class OddUtils {
 
